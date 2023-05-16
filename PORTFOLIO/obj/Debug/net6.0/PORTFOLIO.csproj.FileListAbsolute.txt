@@ -1,0 +1,124 @@
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/bin/Debug/net6.0/appsettings.Development.json
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/bin/Debug/net6.0/appsettings.json
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.staticwebassets.runtime.json
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.exe
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.deps.json
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.runtimeconfig.json
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.dll
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.pdb
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.csproj.AssemblyReference.cache
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.GeneratedMSBuildEditorConfig.editorconfig
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.AssemblyInfoInputs.cache
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.AssemblyInfo.cs
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.csproj.CoreCompileInputs.cache
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.MvcApplicationPartsAssemblyInfo.cache
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.RazorAssemblyInfo.cache
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.RazorAssemblyInfo.cs
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.PORTFOLIO.Microsoft.AspNetCore.StaticWebAssets.props
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.build.PORTFOLIO.props
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PORTFOLIO.props
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PORTFOLIO.props
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/staticwebassets.pack.json
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/staticwebassets.build.json
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/staticwebassets.development.json
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/scopedcss/bundle/PORTFOLIO.styles.css
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/scopedcss/projectbundle/PORTFOLIO.bundle.scp.css
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.dll
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/refint/PORTFOLIO.dll
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.pdb
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.genruntimeconfig.cache
+C:/CS 190 - coding folding/PORTFOLIO/PORTFOLIO/obj/Debug/net6.0/ref/PORTFOLIO.dll
+C:/CS 192/MaryPortfolio/PORTFOLIO/bin/Debug/net6.0/appsettings.Development.json
+C:/CS 192/MaryPortfolio/PORTFOLIO/bin/Debug/net6.0/appsettings.json
+C:/CS 192/MaryPortfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.staticwebassets.runtime.json
+C:/CS 192/MaryPortfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.exe
+C:/CS 192/MaryPortfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.deps.json
+C:/CS 192/MaryPortfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.runtimeconfig.json
+C:/CS 192/MaryPortfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.dll
+C:/CS 192/MaryPortfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.pdb
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.csproj.AssemblyReference.cache
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.GeneratedMSBuildEditorConfig.editorconfig
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.AssemblyInfoInputs.cache
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.AssemblyInfo.cs
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.csproj.CoreCompileInputs.cache
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.MvcApplicationPartsAssemblyInfo.cache
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.RazorAssemblyInfo.cache
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.RazorAssemblyInfo.cs
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.PORTFOLIO.Microsoft.AspNetCore.StaticWebAssets.props
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.build.PORTFOLIO.props
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PORTFOLIO.props
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PORTFOLIO.props
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets.pack.json
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets.build.json
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets.development.json
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/scopedcss/bundle/PORTFOLIO.styles.css
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/scopedcss/projectbundle/PORTFOLIO.bundle.scp.css
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.dll
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/refint/PORTFOLIO.dll
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.pdb
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.genruntimeconfig.cache
+C:/CS 192/MaryPortfolio/PORTFOLIO/obj/Debug/net6.0/ref/PORTFOLIO.dll
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/bin/Debug/net6.0/appsettings.Development.json
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/bin/Debug/net6.0/appsettings.json
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.staticwebassets.runtime.json
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.deps.json
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.runtimeconfig.json
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.dll
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/bin/Debug/net6.0/PORTFOLIO.pdb
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.csproj.AssemblyReference.cache
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.AssemblyInfoInputs.cache
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.AssemblyInfo.cs
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.csproj.CoreCompileInputs.cache
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.MvcApplicationPartsAssemblyInfo.cache
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.RazorAssemblyInfo.cache
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.RazorAssemblyInfo.cs
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.PORTFOLIO.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.build.PORTFOLIO.props
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PORTFOLIO.props
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PORTFOLIO.props
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets.build.json
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/staticwebassets.development.json
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/scopedcss/bundle/PORTFOLIO.styles.css
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/scopedcss/projectbundle/PORTFOLIO.bundle.scp.css
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.dll
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/refint/PORTFOLIO.dll
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.pdb
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/PORTFOLIO.genruntimeconfig.cache
+/Users/marykyne/Desktop/portfolio/PORTFOLIO/obj/Debug/net6.0/ref/PORTFOLIO.dll
+C:\CS 192\FinalProject\PORTFOLIO\bin\Debug\net6.0\appsettings.Development.json
+C:\CS 192\FinalProject\PORTFOLIO\bin\Debug\net6.0\appsettings.json
+C:\CS 192\FinalProject\PORTFOLIO\bin\Debug\net6.0\PORTFOLIO.staticwebassets.runtime.json
+C:\CS 192\FinalProject\PORTFOLIO\bin\Debug\net6.0\PORTFOLIO.exe
+C:\CS 192\FinalProject\PORTFOLIO\bin\Debug\net6.0\PORTFOLIO.deps.json
+C:\CS 192\FinalProject\PORTFOLIO\bin\Debug\net6.0\PORTFOLIO.runtimeconfig.json
+C:\CS 192\FinalProject\PORTFOLIO\bin\Debug\net6.0\PORTFOLIO.dll
+C:\CS 192\FinalProject\PORTFOLIO\bin\Debug\net6.0\PORTFOLIO.pdb
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.csproj.AssemblyReference.cache
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.AssemblyInfoInputs.cache
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.AssemblyInfo.cs
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.csproj.CoreCompileInputs.cache
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.MvcApplicationPartsAssemblyInfo.cache
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.RazorAssemblyInfo.cache
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.RazorAssemblyInfo.cs
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\staticwebassets\msbuild.PORTFOLIO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\staticwebassets\msbuild.build.PORTFOLIO.props
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PORTFOLIO.props
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PORTFOLIO.props
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\staticwebassets.build.json
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\staticwebassets.development.json
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\scopedcss\bundle\PORTFOLIO.styles.css
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\scopedcss\projectbundle\PORTFOLIO.bundle.scp.css
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.dll
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\refint\PORTFOLIO.dll
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.pdb
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\PORTFOLIO.genruntimeconfig.cache
+C:\CS 192\FinalProject\PORTFOLIO\obj\Debug\net6.0\ref\PORTFOLIO.dll

@@ -1,0 +1,47 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Mary's Portfolio!</h1>
+    <br />
+    <h2>
+        Thank you for visiting my portfolio! I am a rising senior at Saint Mary's College of California double majoring in
+        English and Computer Science. I have experience in UI/ UX design.
+        Feel free to search around and explore. If you have any questions, please feel free to contact me.
+        Below is a list of my certifications and resume.
+    </h2>
+</div>
+<br />
+<br />
+<br />
+<section>
+    <h2>Certifications</h2>
+
+</section>
+
+<div style="padding: 5px; padding-left: 25px;">
+    <img style="width: 20px; display: inline-block;" src="~/img/logos/instagram-logo.webp">
+    <a style="display: inline-block; color: gray;" href="https://www.instagram.com/maryporfoliocs190/">&#64;maryporfoliocs190</a>
+</div>
+
+<div class="container" style="padding-top: 10px; padding-bottom: 10px; border-radius: 10px;">
+    <div class="row">
+        <div id="instafeed-container"></div>
+    </div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/gh/stevenschobert/instafeed.js@2.0.0rc1/src/instafeed.min.js"></script>
+<script type="text/javascript">
+var userFeed = new Instafeed({
+        get: 'user',
+        limit: 9,
+        target: "instafeed-container",
+        resolution: 'low_resolution',
+    accessToken: 'IGQVJWSGxOVGJlQUR0ZAnBWOWNWWk5fbEZAqT1VpZAGt6MDVKVjRTR2FJeEFLa3oxTkp2Q1lNVVQ5YWVqWXBqU3FpbldGU2ZAGMEoxT0NrYS00dlZAIdHJYdjVqSlNKREc3U0RqVlRYdWMwN09aVmJJYVRVYwZDZD'
+});
+userFeed.run();
+</script>
